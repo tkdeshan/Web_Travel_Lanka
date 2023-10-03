@@ -19,15 +19,15 @@ The website is live on : https://travellankakavindacreate.000webhostapp.com/
 
 ## Installation
 
-1. Clone the repository: `https://github.com/tkdeshan/Web_Travel_Lanka.git`
-2. Copy the project files to your web server's document root.
-3. Set up a PHP-enabled web server (Use XAMPP).
+1. Clone the repository: `git clone https://github.com/tkdeshan/Web_Travel_Lanka.git`
+2. Set up a PHP-enabled web server (Use XAMPP).
+3. Copy the project files to your web server's document root.
 4. Create a MySQL database name travel_lanka and import the provided SQL schema.
 6. Update the database configuration in `book_form.php` with your credentials.
 7. Access the website in your web browser.
 
 ## Usage
 
-- To view the homepage, open index.php in your browser.
+- To view the homepage, open `index.php` in your browser.
 - Navigate to the other pages by clicking on the relavent link in the navigation menu.
 - Book your trip by filling the form in the Book page.
