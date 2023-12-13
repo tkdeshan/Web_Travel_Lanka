@@ -63,7 +63,7 @@
             echo "</tr>";
         }
         echo "</table><br>";
-        echo "<h2>Please click <a href='home.php'> here </a> go to the website again..!</h2>";
+        echo "<h2>Please click <a href='index.php'> here </a> go to the website again..!</h2>";
     }	
  
 ?>
