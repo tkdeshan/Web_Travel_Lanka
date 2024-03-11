@@ -1,6 +1,7 @@
 # Web_Travel_Lanka
 
-Web Project - Web Development - 2nd Semester - 3rd Year - Department of Statistics and Computer Science - University of Kelaniya. 
+Website for travel company 
+(Web Project - Web Development - 2nd Semester - 3rd Year - Department of Statistics and Computer Science - University of Kelaniya). 
 
 ## Table of Contents
 
