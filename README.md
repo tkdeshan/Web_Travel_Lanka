@@ -16,7 +16,7 @@ This website for a travel company that provides holiday packages and tours. Usin
 
 ## Demo
 
-The website is live on : https://travellankakavindacreate.000webhostapp.com/
+The website is live on : http://travel-lanka.infinityfreeapp.com/index.php
 
 ## Installation
 
