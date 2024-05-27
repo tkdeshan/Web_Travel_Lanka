@@ -1,6 +1,7 @@
 # Web_Travel_Lanka
 
-Web Project - Web Development - 2nd Semester - 3rd Year - Department of Statistics and Computer Science - University of Kelaniya. 
+Website for travel company 
+(Web Project - Web Development - 2nd Semester - 3rd Year - Department of Statistics and Computer Science - University of Kelaniya). 
 
 ## Table of Contents
 
@@ -15,7 +16,7 @@ This website for a travel company that provides holiday packages and tours. Usin
 
 ## Demo
 
-The website is live on : https://travellankakavindacreate.000webhostapp.com/
+The website is live on : http://travel-lanka.infinityfreeapp.com/index.php
 
 ## Installation
 
