@@ -254,9 +254,12 @@
                 <a href="#"><i class="fab fa-instagram"></i> instagram</a>
                 <a href="#"><i class="fab fa-linkedin"></i> linkedin</a>
              </div>
-        </div>
+         </div>
 
-        <div class="credit"> created by <span>Designer</span> | all right reserved! </div>
+         <div class="credit"> 
+            <h5>Copyright © 2024 Travel Lanka</h5> 
+            <h6>Designed by Kavinda Deshan</h6> 
+         </div>
      </section>
 
      <!-- footer section ends -->
